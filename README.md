@@ -17,7 +17,7 @@ Saisir ensuite cette commande :
 
 ```cd DataBaseSearcher```
 
-```python3 DBsearcherProdige```
+```python3 DBsearcherProdige.py```
 
 Après avoir effectué toutes les étapes ci-dessus, vous pouvez maintenant exécuter ‘DBsearcherProdige.py’
 
